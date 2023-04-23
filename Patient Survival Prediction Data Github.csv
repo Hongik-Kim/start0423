@@ -1,0 +1,10 @@
+encounter_id,patient_id,hospital_id,age,bmi,elective_surgery,ethnicity,gender,height,icu_admit_source,icu_id,icu_stay_type,icu_type,pre_icu_los_days,weight,hospital_death
+66154,25312,118,68,22.73,0,Caucasian,M,180.3,Floor,92,admit,CTICU,0.541666667,73.9,0
+114252,59342,81,77,27.42,0,Caucasian,F,160,Floor,90,admit,Med-Surg ICU,0.927777778,70.2,0
+119783,50777,118,25,31.95,0,Caucasian,F,172.7,Accident & Emergency,93,admit,Med-Surg ICU,0.000694444,95.3,0
+79267,46918,118,81,22.64,1,Caucasian,F,165.1,Operating Room / Recovery,92,admit,CTICU,0.000694444,61.7,0
+92056,34377,33,19,,0,Caucasian,M,188,Accident & Emergency,91,admit,Med-Surg ICU,0.073611111,,0
+33181,74489,83,67,27.56,0,Caucasian,M,190.5,Accident & Emergency,95,admit,Med-Surg ICU,0.000694444,100,0
+82208,49526,83,59,57.45,0,Caucasian,F,165.1,Accident & Emergency,95,admit,Med-Surg ICU,0.000694444,156.6,0
+120995,50129,33,70,,0,Caucasian,M,165,Accident & Emergency,91,admit,Med-Surg ICU,0.002083333,,0
+80471,10577,118,45,,0,Caucasian,M,170.2,Other Hospital,114,admit,CCU-CTICU,0.009027778,,1
